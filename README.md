@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **josedavidsanchezsantos@gmail.com**
 
-- ⚡ Fun fact **I love the music before all**
+- ⚡ Fun fact **I love the music more than  all**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
