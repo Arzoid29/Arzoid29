@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/arzoidss" target="blank"><img src="https://img.shields.io/twitter/follow/arzoidss?logo=twitter&style=for-the-badge" alt="arzoidss" /></a> </p>
 
-- 🔭 I’m currently working on **space reservation application**
+- 🔭 I’m currently working on **space reservation application and drill-kit css library **
 
 - 🌱 I’m currently learning **Flask and React**
 
