@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm José David Sánchez</h1>
 <h3 align="center">An software student from Dominican Republic</h3>
+<a href="https://app.daily.dev/Arzoid"><img src="https://api.daily.dev/devcards/41dc87904619405596d4e698bae91f95.png?r=fz3" width="400" alt="José David Sánchez Santos's Dev Card"/></a>
    Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arzoid29&label=Profile%20views&color=0e75b6&style=flat" alt="arzoid29" /> </p>
