@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/arzoidss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arzoidss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/josé david sánchez santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josé david sánchez santos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-david-s%C3%A1nchez-santos-4931a9190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="josé david sánchez santos" height="30" width="40" /></a>
 <a href="https://fb.com/josé david sánchez santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="josé david sánchez santos" height="30" width="40" /></a>
 <a href="https://instagram.com/arzoid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arzoid" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/arzoid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="arzoid" height="30" width="40" /></a>
