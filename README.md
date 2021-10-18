@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on **Some proyects with React Js and Strapi**
 
-- 🌱 I’m currently learning **Strapi and React**
+- 🌱 I’m currently learning **Strapi and firebase**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arzoid29/](https://github.com/Arzoid29/)
 
-- 💬 Ask me about **JS, Python**
+- 💬 Ask me about **JS, Python, React ,Tailwind**
 
 - 📫 How to reach me **josedavidsanchezsantos@gmail.com**
 
