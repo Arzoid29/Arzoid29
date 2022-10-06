@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/arzoidss" target="blank"><img src="https://img.shields.io/twitter/follow/arzoidss?logo=twitter&style=for-the-badge" alt="arzoidss" /></a> </p>
 
-- 🔭 I’m currently working on **Some proyects with React Js and Strapi**
+- 🔭 I’m currently working on **Some proyects with React Js and Typescript**
 
-- 🌱 I’m currently learning **Strapi and firebase**
+- 🌱 I’m currently learning **Next js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arzoid29/](https://github.com/Arzoid29/)
 
