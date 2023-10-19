@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Arzoid29/](https://github.com/Arzoid29/)
 
-- 💬 Ask me about **JS, Python, React ,Tailwind**
+- 💬 Ask me about **JS, Python, React ,Tailwind,Nextjs ,TS**
 
 - 📫 How to reach me **josedavidsanchezsantos@gmail.com**
 
