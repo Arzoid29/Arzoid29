@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José David Sánchez</h1>
-<h3 align="left">i'm a software student from Dominican Republic</h3>
+<h3 align="left">i'm a software Developer from Dominican Republic</h3>
    <h3>Hey there </h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img  src="https://raw.githubusercontent.com/hebertdev1/hebertdev1/master/javascript.gif" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arzoid29&label=Profile%20views&color=0e75b6&style=flat" alt="arzoid29" /> </p>
