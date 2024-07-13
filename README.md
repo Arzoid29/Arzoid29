@@ -97,8 +97,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo"  />
 </div>
-
-###
+<h4 align="center">My Dominican Republic Rank 🥇👇 </h4>
+<a href="https://user-badge.committers.top/dominican_republic/Arzoid29"><img align="center" src="https://user-badge.committers.top/dominican_republic/Arzoid29.svg"></a>###
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arzoid29" alt="arzoid29" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/arzoidss" target="blank"><img src="https://img.shields.io/twitter/follow/arzoidss?logo=twitter&style=for-the-badge" alt="arzoidss" /></a> </p>
