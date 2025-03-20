@@ -114,14 +114,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arzoid29/arzoid29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arzoid29/arzoid29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arzoid29/arzoid29/output/pacman-contribution-graph.svg">
-</picture>
 ###
 <h4 align="center">My Dominican Republic Rank 🥇👇 </h4>
 <a href="https://user-badge.committers.top/dominican_republic/Arzoid29"><img align="center" src="https://user-badge.committers.top/dominican_republic/Arzoid29.svg"></a>
