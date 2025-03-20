@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋, I'm José David Sánchez, i'm a software Developer from Dominican Republic</h2>
 
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arzoid29&show_icons=true&locale=en&layout=compact" alt="arzoid29" /></p>
-
-<h2 align="left">Hi 👋, I'm José David Sánchez, i'm a software Developer from Dominican Republic</h2>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arzoid29&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
