@@ -122,13 +122,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arzoid29/arzoid29/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arzoid29/arzoid29/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/arzoid29/count.svg?"  />
-</div>
-
 ###
 <h4 align="center">My Dominican Republic Rank 🥇👇 </h4>
 <a href="https://user-badge.committers.top/dominican_republic/Arzoid29"><img align="center" src="https://user-badge.committers.top/dominican_republic/Arzoid29.svg"></a>
