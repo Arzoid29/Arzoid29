@@ -17,8 +17,20 @@
 <br/>
 
 <div align="center">
+  <p align="left">
+    🔭 I’m currently working on <b>Enterprise Projects with React.js, Next.js and TypeScript</b><br>
+    🌱 I’m currently learning <b>Advanced Microservices & Cloud Architecture</b><br>
+    👨‍💻 All of my projects are available at <a href="https://github.com/Arzoid29/">https://github.com/Arzoid29/</a><br>
+    💬 Ask me about <b>JS, Python, React, Tailwind, Next.js, TS</b><br>
+    ⚡ Fun fact: <b>I love music more than anything 🎵</b>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=arzoid29&theme=gitdimmed&no-frame=true&margin-w=15" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=arzoid29&theme=dark&no-frame=true&margin-w=15" alt="trophy" />
   </a>
 </div>
 
